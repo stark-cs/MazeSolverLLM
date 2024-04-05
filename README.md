@@ -1,4 +1,16 @@
+$${\Large\color{red}招募队友中，预计3-5人小队...}$$
+
+<p align="center">
+  <a href="https://www.feishu.cn/invitation/page/add_contact/?token=db9m651e-10d4-4e68-aa61-5cf1c31c80f6&amp;unique_id=BAYMMa4KV21p9Ejnqf0Ebw==" target="_blank">请联系我 >>> 飞书</a>
+  <br>
+<!--   <img src="Feishu.jpg" width="10%"> -->
+  <a href="https://www.feishu.cn/invitation/page/add_contact/?token=db9m651e-10d4-4e68-aa61-5cf1c31c80f6&amp;unique_id=BAYMMa4KV21p9Ejnqf0Ebw==" target="_blank">
+    <img src="Feishu.jpg" width="10%" alt="Feishu Logo">
+  </a>
+</p>
+
 # MazeSolverLLM
+
 
 > [MIT NEWS MAGAZINE: Mighty mouse](https://www.technologyreview.com/2018/12/19/138508/mighty-mouse/)
 
@@ -21,3 +33,17 @@
 | 文档编写                   	| 编写详细的项目文档和用户教程                                                                                                         	|              	|                                                                     	|
 |                            	| **_进阶: Multimudal-MazeSolverLLM_**                                                                                                   	|              	|                                                                     	|
 | 将Maze图片转化为Maze Graph 	| vision-language 多模态输入，LLM直接对图片进行建模分析求解                                                                            	|              	| 可能需要分为多个LLM，多模块，多阶段训练                             	|
+
+
+
+## 特别鸣谢
+
+Thanks in advance. 
+
+<p align="center"><b>感谢上海人工智能实验室组织的 书生·浦语实战营 学习活动</b></p>
+
+<div align=center><img src ="https://github.com/SmartFlowAI/TheGodOfCookery/blob/main/images/shanghaiailab.png"/></div>
+
+<p align="center"><b>感谢 OpenXLab 对项目开发的算力支持</b></p>
+
+<div align=center><img src ="https://github.com/SmartFlowAI/TheGodOfCookery/blob/main/images/openxlab.png"/></div>
