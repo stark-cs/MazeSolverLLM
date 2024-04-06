@@ -20,6 +20,10 @@ $${\Large\color{red}招募队友中，预计3-5人小队...}$$
 - 基础：通过构建Graph纯文本数据的方式来训练和fine-tune LLM, 使其具备解谜能力。
 - 进阶：通过直接输入迷宫图片, 使用多模态数据finetune LLM, 使其直接从迷宫的图像中提取信息。
 
+<p align="center">
+    <img src="maze.png" width="20%">
+</p>
+
 ## 任务划分
 
 | **Task**                   	| **Detail**                                                                                                                           	| **Assignee** 	| **Note**                                                            	|
