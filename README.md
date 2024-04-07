@@ -11,11 +11,12 @@ $${\Large\color{red}招募队友中，预计3-5人小队...}$$
 
 # MazeSolverLLM
 
-
+> [Introduction Video](https://www.douyin.com/video/7350585864851950859)
+> 
 > [MIT NEWS MAGAZINE: Mighty mouse](https://www.technologyreview.com/2018/12/19/138508/mighty-mouse/)
 
 
-迷宫问题 (Maze-Solving) 是一种经典的逻辑和路径规划问题，它可以通过图论的概念来解决。在这个问题中，迷宫被抽象为一个图（Graph），其中迷宫的每个地点被视为图中的一个节点，而两个相邻点之间的可行通道则对应于图的边。例如，4x4的地图可标记为16个节点，将所有可行路径作为连接节点的边，即构建了一张图（Graph）。通过这种方式，迷宫问题可以转化为最短路径问题（Shotest Path Problem, SPP），给定起始节点和目标节点，寻找图中最短路径。
+迷宫问题 (Maze-Solving) 是一种经典的路径规划问题，它可以通过图论来解决。在这个问题中，迷宫被抽象为一个图（Graph），其中迷宫的每个地点被视为图中的一个节点，而两个相邻点之间的可行通道则对应于图的边。例如，4x4的地图可标记为16个节点，将所有可行路径作为连接节点的边，即构建了一张图（Graph）。通过这种方式，迷宫问题可以转化为最短路径问题（Shotest Path Problem, SPP），给定起始节点和目标节点，寻找图中最短路径。
 
 - 基础：通过构建Graph纯文本数据的方式来训练和fine-tune LLM, 使其具备解谜能力。
 - 进阶：通过直接输入迷宫图片, 使用多模态数据finetune LLM, 使其直接从迷宫的图像中提取信息。
